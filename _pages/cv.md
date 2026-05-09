@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Atmosphere Ocean Sciences and Mathematics, New York University, 2027 (expected)
+* B.S. in Mathematics with Computer Science, Massachusetts Insitute of Technology, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Graduate Research Assistant, 2022-2026 
+    * New York University
+    * Supervisor: Prof. Ed Gerber
+    * Research on sparse signal estimation of gravity waves in the stratosphere.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* New York University, Recitation Leader
+    * Spring 2026, Math for Economics II
+    * Spring 2025, Numerical Analysis
+    * Fall 2024, Calculus I
   
+Presentations
+======
+* An inverse modelling approach to gravity wave source parameterization
+    * American Meteorological Society Conference on Middle Atmosphere, June 2024, Burlington, VT
+    * Cross-VESRI Convening, July 2024, Cambridge, UK
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Spring 2026, Student Survey Committee
+* Spring 2024, AOS Student Seminar Organizer
